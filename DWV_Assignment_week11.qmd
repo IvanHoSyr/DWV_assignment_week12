@@ -1,0 +1,28 @@
+---
+title: "dwv-assignment-11 data"
+author: Ivan Ho
+format: 
+  pdf: default
+editor: visual
+---
+
+## Q1 Election Result 2024 by states
+
+
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
